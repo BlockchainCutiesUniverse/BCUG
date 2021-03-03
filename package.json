@@ -1,0 +1,17 @@
+{
+  "name": "bcug",
+  "version": "1.0.0",
+  "description": "BCUG token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.10",
+    "truffle": "^5.1.64",
+    "optimist": "^0.6.1",
+    "preprocessor": "^1.4.0"
+  }
+}

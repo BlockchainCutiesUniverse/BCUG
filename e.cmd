@@ -1,0 +1,1 @@
+call node node_modules\truffle\build\cli.bundled.js %1 %2 %3 %4 %5 %6
